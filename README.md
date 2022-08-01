@@ -100,3 +100,21 @@ Upon launching the application  on jupyter lab run the file by clicking on the p
 
 
 [](images/etf_app.mov)
+
+
+___
+
+
+## Contributers
+
+Manisha Lal
+
+07/31/2022
+
+manisha.lal.2009@gmail.com
+___
+
+
+## License
+
+copyright 2022

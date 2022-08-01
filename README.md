@@ -104,6 +104,10 @@ Upon launching the application  on jupyter lab run the file by clicking on the p
 
 ___
 
+https://user-images.githubusercontent.com/78903233/182057209-2339debf-d4a1-4966-8e05-e753717ed983.mov
+
+
+
 
 ## Contributers
 

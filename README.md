@@ -1,4 +1,4 @@
-# ETF_Portfolio_ANALYZER #
+# ETF_PORTFOLIO_ANALYZER #
 Exchange-traded fund performance analysis
 ---
 This is a python enabled command line interface that analyzes the performance of  an exchange-traded fund (ETF) portfolio.
